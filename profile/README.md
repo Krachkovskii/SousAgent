@@ -25,7 +25,8 @@ profile/
   sources and explicit exceptions (e.g. "sunflower seeds: allergy; refined sunflower
   oil is fine").
 - **Preferences** (dislikes, avoid, love): followed by default, but can be bent —
-  for example in exploration mode.
+  for example in exploration mode. Includes comfort dishes and flavors, and cooking
+  habits (e.g. whether cleanup counts toward time).
 
 Rule of thumb: *should the agent check hidden sources and warn me even when I ask
 for it?* Yes → restriction. No → preference.
