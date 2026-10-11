@@ -1,0 +1,5 @@
+# Keeps personal data out of the public template.
+# In your PRIVATE copy, delete this file so your profile gets saved (see SETUP.md).
+*
+!.gitignore
+!README.md
