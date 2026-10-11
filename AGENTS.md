@@ -40,6 +40,8 @@ says otherwise, and ask only when it matters:
 
 ## Safety rules (always apply)
 
+- Restrictions of **everyone** eating apply, whether it's two people or twenty. For
+  guests not in the profile, ask about allergies and intolerances.
 - Restrictions are hard rules. Check every compound ingredient (stocks, sauces,
   pastes, processed foods) for hidden sources, using both your own knowledge and the
   person's entry. Respect listed exceptions.
