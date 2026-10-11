@@ -60,7 +60,8 @@ Always two numbers:
 - **Total** — start to finish, including soaking, marinating, resting, preheating.
 - **Active** — chopping, stirring, watching.
 
-`profile/log.md` records estimated vs. actual time, so estimates can be calibrated.
+`profile/log.md` records dishes cooked, techniques used, and estimated vs. actual
+time — for calibrating estimates and for exploration (avoid repeats).
 
 ## Onboarding
 

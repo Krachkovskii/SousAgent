@@ -15,7 +15,7 @@ profile/
 │   ├── equipment.md         # tools and appliances, with relevant details
 │   └── pantry.md            # what's usually there and what needs checking
 ├── regions/<name>.md        # local availability notes (optional)
-└── log.md                   # cooking log: estimated vs. actual time
+└── log.md                   # cooking log: dishes, techniques, estimated vs. actual time
 ```
 
 ## Restrictions vs. preferences
