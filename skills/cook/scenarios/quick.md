@@ -2,6 +2,10 @@
 
 The user wants food on the table within a time limit.
 
+## In the overview
+
+- Total time (and active time, in the hands-on variant).
+
 ## Time limit
 
 - The limit is **total time**: from the moment the user starts until the food

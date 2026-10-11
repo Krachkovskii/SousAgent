@@ -3,6 +3,12 @@
 The user wants to try something new: an ingredient, a cuisine, a technique, a
 flavor — any of these, or several at once.
 
+## In the overview
+
+- What makes it interesting: the new ingredient, technique, flavor or cuisine.
+- What makes it challenging.
+- Sourcing notes, if anything is hard to get.
+
 ## Before suggesting
 
 - **Novelty:** how far to go — one new element in a familiar dish, or entirely

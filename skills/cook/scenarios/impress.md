@@ -3,6 +3,11 @@
 The user wants to impress the people they're cooking for. Combines freely with
 other scenarios (quick and impressive, crowd and impressive).
 
+## In the overview
+
+- Where the impression comes from: presentation, flavor, surprise.
+- Riskiest part, if any.
+
 ## Before suggesting
 
 - **Audience:** who's it for, if it matters and isn't clear — a date, family,

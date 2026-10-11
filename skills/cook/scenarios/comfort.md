@@ -3,6 +3,11 @@
 The user wants food that feels familiar and comforting. Comfort is personal: it
 comes from upbringing, memories and habits, not from a generic list.
 
+## In the overview
+
+- Why it's comforting (familiar dish, flavor, the process itself).
+- Rough effort.
+
 ## Before suggesting
 
 - **Comfort dishes:** start from the person's comfort dishes and comforting

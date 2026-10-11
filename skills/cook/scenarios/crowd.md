@@ -2,6 +2,11 @@
 
 The user is cooking for more people than usual.
 
+## In the overview
+
+- Whether it fits the kitchen's equipment, or needs batching.
+- How much can be done ahead.
+
 ## When it applies
 
 "Crowd" is relative. Use the threshold from `profile/settings.md` (for one user

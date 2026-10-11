@@ -3,6 +3,11 @@
 The user wants to use up specific ingredients before they go bad or get forgotten.
 The dish is built around those ingredients — they are the point, not an addition.
 
+## In the overview
+
+- How much of each target ingredient it uses.
+- Which targets it leaves out, if any.
+
 ## What counts
 
 - Perishables: produce, dairy, meat, fish, herbs.
